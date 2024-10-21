@@ -18,8 +18,3 @@ cp ./* ~/.termux/*
 
 > [!WARNING]
 > Adjust to backup your own config files before copy files.
-
-## Other things
-Some chars I want like `` ` ``, `\` and etc. don't add to the board.
-
-The board is already crowded and the screen on phone is not big, so I give up these.
